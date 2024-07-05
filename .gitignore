@@ -1,0 +1,6 @@
+# Ignore macOS system files
+.DS_Store
+
+# Add any other files you want to ignore
+https:/
+
